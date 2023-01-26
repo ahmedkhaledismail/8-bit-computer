@@ -37,4 +37,4 @@ and we will use the following circuit for checking when the result of an arithme
 Here is the final schematic for the 8-bit computer: 
 <div style="text-align:center"><img src="./schematics/computer%20.png" class="full-width"/></div> 
 
-The instruction and address decodes are stored in the EEPROM. You can find the EEPROM programmer schematic, Arduino code, and more by visiting the [EEPROM programmer](../EEPROM%20programmer/) section.
+The instruction and address decodes are stored in the EEPROM. You can find the EEPROM programmer schematic, Arduino code, and more by visiting the [EEPROM programmer](/EEPROM%20programmer/) section.
